@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "examen-final-react",
+    "slug": "examen-final-react",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "Necesitamos permiso para usar tu ubicación y agregarla a tus tareas",
+        "NSCameraUsageDescription": "Necesitamos permiso para usar tu cámara y tomar fotos de tus tareas",
+        "NSPhotoLibraryUsageDescription": "Necesitamos permiso para usar tu galería y seleccionar fotos de tus tareas"
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION",
+        "CAMERA",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ]
+    },
+    "web": {},
+    "scheme": "examen-final",
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Necesitamos permiso para usar tu ubicación y agregarla a tus tareas"
+        }
+      ]
+    ]
+  }
+}
