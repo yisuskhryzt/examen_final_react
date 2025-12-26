@@ -27,9 +27,10 @@ Esta aplicación móvil permite a los usuarios registrar, visualizar, editar y e
 
 ## Integrantes del Equipo
 
-- **Desarrollador Full Stack**: Implementación de servicios, hooks y pantallas
-- **Diseñador UI/UX**: Diseño de interfaces y experiencia de usuario
-- **Arquitecto de Software**: Estructura del proyecto y patrones de diseño
+- Ignacio Riveros
+- Ethan Duran
+- Andrés Corbacho
+- Jesús Flores
 
 ## Estructura del Proyecto
 
