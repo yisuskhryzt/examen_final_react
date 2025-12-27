@@ -1,6 +1,6 @@
 # Aplicación de Tareas - React Native
 
-Aplicación móvil desarrollada con React Native y Expo que permite gestionar tareas personales con autenticación y almacenamiento en la nube.
+Aplicación móvil "ToDo List" desarrollada con React Native y Expo que permite gestionar tareas personales con autenticación y almacenamiento en la nube.
 
 ## Descripción del Proyecto
 
@@ -170,3 +170,9 @@ Endpoints utilizados:
 - Implementar notificaciones push
 - Modo offline con sincronización posterior
 - Compartir tareas entre usuarios
+
+## Video con respuestas
+
+Se respondieron las preguntas indicadas por el profesor mostrando el código, además del funcionamiento de la App, los cuales quedaron registrados en el siguiente video:
+
+https://ipciisa-my.sharepoint.com/:v:/g/personal/jesus_flores_cisternas_estudiante_ipss_cl/IQD02afkB6DJR7jhcyhcpmasAVyFzv5cA5fc6dOOaNYGM2M?e=x7aHoC
